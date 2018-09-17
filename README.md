@@ -4,8 +4,7 @@
 text02.txt
 疑似3Dのソースをテキスト化したもの
 
-wiiu.mp4
-実行動画
+
 
 text01.txt
 プチコンBIGでedit0のソースを白黒画像にするもの
